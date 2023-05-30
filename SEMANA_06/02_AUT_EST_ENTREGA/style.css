@@ -1,0 +1,44 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 22px;
+    background-color: #afeae9;
+    color: #000000;
+}
+
+header {
+    margin-bottom: 32px;
+}
+
+h1 {
+    font-size: 38px;
+    margin: 0;
+}
+
+section {
+    margin-bottom: 32px;
+}
+
+h2 {
+    font-size: 26px;
+    margin: 0 0 12px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+
+.Currículo {
+    display: none; /* Inicia oculto */
+}
+
+#mostrar:hover {
+    background-color: #afeae9;
+}
